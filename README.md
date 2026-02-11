@@ -39,7 +39,7 @@ This project demonstrates practical knowledge of:
 
 ## Author
 
-Created by **Suad Kucalović** - 1272
+Created by **Suad Kucalović - 1272**  
 Faculty of Electrical Engineering – Computer Science and Informatics
 
 ## License
