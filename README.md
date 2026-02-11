@@ -1,16 +1,47 @@
-# React + Vite
+# Astrology Club – React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed as part of the university course **Advanced Internet Programming Techniques**.
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of the assignment was to create a fully responsive static website based on an existing **Figma design**.  
+The implementation focuses on:
 
-## React Compiler
+- Accurate visual reproduction of the provided design
+- Responsive layout across mobile, tablet, and desktop devices
+- Component-based architecture using **React**
+- Consistent styling, animations, and UI behavior
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The website represents a fictional **Astronomy Club** and includes the following sections:
 
-## Expanding the ESLint configuration
+- Navigation bar with responsive burger menu
+- Hero section
+- Projects showcase
+- Events section
+- Contact form
+- Footer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **React**
+- **Tailwind CSS**
+- **HTML5 & CSS3**
+- **Responsive Design Principles**
+
+## Purpose
+
+This project demonstrates practical knowledge of:
+
+- Converting a **Figma UI design** into a working web interface
+- Building reusable **React components**
+- Implementing **responsive layouts**
+- Applying modern **UI/UX animation techniques**
+
+## Author
+
+Created by **Suad Kucalović**  
+Faculty of Electrical Engineering – Computer Science and Informatics
+
+## License
+
+This project is created for educational purposes as part of a university assignment.
